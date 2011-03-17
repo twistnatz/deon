@@ -47,5 +47,4 @@ template<typename T> T Configuration::Get(std::string config_value)
 }
 
 }; //Deon
-
 #endif // _DEON_CONFIGURATION_H_
